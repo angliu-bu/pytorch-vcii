@@ -14,6 +14,7 @@ Currently supported:
 - Training interpolation models with different offsets.
 - Evaluation on single model (PSNR/MS-SSIM).
 - Some ablation study options.
+- Any questions, please contact Ang Liu, aliu12@bu.edu 
 
 Coming soon:
 - Entropy coding.
